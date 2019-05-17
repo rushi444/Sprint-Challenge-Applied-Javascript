@@ -36,19 +36,19 @@ Edit this document to include your answers after each question. Make sure to lea
 
 2. What is an event?
 
-Events are the actions that take place on the HTML elements. 
+-Events are the actions that take place on the HTML elements. 
 
 3. What is an event listener?
 
-It is a method that waits for an event to occur, and then runs the code attached to it. 
+-It is a method that waits for an event to occur, and then runs the code attached to it. 
 
 4. Why would we convert a NodeList into an Array?
 
-In order to use JS methods on them.  The nodelist is just a browser list that JS cannot use for most of its methods. 
+-In order to use JS methods on them.  The nodelist is just a browser list that JS cannot use for most of its methods. 
 
 5. What is a component?
 
-A component is a reusable piece of code. For example if there several HTML elements that need the same JS, one component would be much faster then coding the same code for each element. 
+-A component is a reusable piece of code. For example if there several HTML elements that need the same JS, one component would be much faster then coding the same code for each element. 
 
 ### Git Set up
 
